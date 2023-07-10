@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acebbe62fa179de40a121f37aedc5518, type: 3}
+  m_Name: Stage9
+  m_EditorClassIdentifier: 
+  stageBackgroundColor: {r: 0.038848326, g: 0.9150943, b: 0.9087847, a: 1}
+  stageLevelPartColor: {r: 1, g: 0.5595221, b: 0, a: 1}
+  StageBallColor: {r: 0.78899217, g: 0.05098039, b: 1, a: 1}
+  levels:
+  - partCount: 11
+    deathPartCount: 4
+  - partCount: 8
+    deathPartCount: 4
+  - partCount: 10
+    deathPartCount: 3
+  - partCount: 11
+    deathPartCount: 5
+  - partCount: 9
+    deathPartCount: 2
+  - partCount: 9
+    deathPartCount: 2
+  - partCount: 7
+    deathPartCount: 1
+  - partCount: 9
+    deathPartCount: 4
+  - partCount: 9
+    deathPartCount: 3
+  - partCount: 8
+    deathPartCount: 3
+  - partCount: 7
+    deathPartCount: 4
+  - partCount: 9
+    deathPartCount: 4

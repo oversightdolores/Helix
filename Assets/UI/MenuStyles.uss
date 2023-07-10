@@ -1,0 +1,7 @@
+.playButton {
+}
+
+.playButton:hover {
+    scale: 1.5 1.5;
+    rotate: 3deg;
+}
